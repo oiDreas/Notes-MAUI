@@ -2,17 +2,9 @@ namespace Notes.Views;
 
 public partial class AllNotesPage : ContentPage
 {
-    public AllNotesPage()
-    {
-        InitializeComponent();
+    
 
-        BindingContext = new Models.AllNotes();
-    }
-
-    protected override void OnAppearing()
-    {
-        ((Models.AllNotes)BindingContext).LoadNotes();
-    }
+    
 
     private async void Add_Clicked(object sender, EventArgs e)
     {

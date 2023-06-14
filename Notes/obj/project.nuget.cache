@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DFfdhhLeVEQ92dQBCnLSdMqYwpEDnI1Gat6adkApX5cZaJg6NJJR8n8Oc/4aGsifS7YNB9lB70rS4BKLN56xlg==",
+  "dgSpecHash": "gNTzAy4w+oPI8saSoP7lDAWuywoFAmzTT26Da8L6x2T/p4xFWMaQFD43QwFI3ZmEIgclz9L4KdNEOn2GtTRB3Q==",
   "success": true,
-  "projectFilePath": "D:\\2DS\\Anthony\\Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "D:\\2ds\\Anthony-Notes-MAUI\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\etechas\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
